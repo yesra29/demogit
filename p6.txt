@@ -1,1 +1,1 @@
-this is program6 of git!
+this is program 6
